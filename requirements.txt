@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 pandas
 scikit-learn
 matplotlib
 streamlit
+=======
+pandas
+scikit-learn
+matplotlib
+streamlit
+>>>>>>> 69779714d917d4973d02ed58105fb24860b0c105
 joblib
