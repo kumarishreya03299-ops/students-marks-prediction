@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 #import pandas as pd
 import joblib
@@ -22,7 +21,6 @@ if st.button("Predict Marks"):
 
     prediction = model.predict([[number_courses, time_study]])
 
-=======
 import streamlit as st
 #import pandas as pd
 import joblib
@@ -46,5 +44,4 @@ if st.button("Predict Marks"):
 
     prediction = model.predict([[number_courses, time_study]])
 
->>>>>>> 69779714d917d4973d02ed58105fb24860b0c105
     st.success(f"Predicted Marks: {prediction[0]:.2f}")
