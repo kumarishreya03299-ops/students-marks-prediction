@@ -44,16 +44,6 @@ Joblib is used to save and load the trained Machine Learning model.
 # Machine Learning Model
 This project uses Linear Regression to predict student marks based on study hours.
 
-# Project Structure
-Student-Marks-Prediction/
-│
-├── app.py
-├── model.pkl
-├── student_Marks.csv
-├── student.py
-├── requirements.txt
-└── README.md
-
 # How to Run
 1. Clone or download this repository.
 2. Open the project folder in VS Code.
